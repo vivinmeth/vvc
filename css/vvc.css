@@ -607,6 +607,10 @@ html{
     left: 220px;
 
 }
+a:hover{
+	text-decoration: underline;
+	color: whitesmoke;
+}
 /*#phone1{
     width:23px;
     height:32px;
